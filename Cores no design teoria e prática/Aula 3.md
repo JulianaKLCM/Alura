@@ -1,0 +1,1 @@
+red (vermelho), green (verde), e blue (azul)
