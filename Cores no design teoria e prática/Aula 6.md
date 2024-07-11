@@ -1,10 +1,25 @@
+ RGB e CMYK: modelos matemáticos para descrever as cores
 
-As ondas mais compridas que o vermelho são o infravermelho, 
-as micro-ondas, e as ondas de rádio, e as ondas mais curtas que o violeta são a ultravioleta, 
-os raios X, e os raios gama.
+RGB: modo de cores aditivo (cores somadas caminham em direção ao branco)
 
-A luz vermelha, verde, e azul processadas nos nossos olhos e no nosso cérebro, geram todas as outras cores que enxergamos.
+vermelho + verde = amarelo
+vermelho + azul = magenta
+azul + verde + ciano
 
-RGB: red (vermelho), green (verde), e blue (azul)
+Vermelho + Verde + Azul = Branco
 
-CMYK: Ciano, magenta e amarelo
+Dentro desse modelo, cada cor pode ser descrita conforme os valores específicos dos canais entre 0 e 255
+
+CMYK: modo de cores subtrativo (cores se somam em direção ao preto, subtraem o branco)
+
+ciano + magenta = azul
+ciano + amarelo = verde
+amarelo + magenta = vermelho
+
+Ciano + Magenta + Amarelo = preto
+
+Utilizado para impressão: Não emite luz; reflete a luz
+
+Nesse modelo cada pigmento é utilizado em valores de 0% a 100%
+
+
